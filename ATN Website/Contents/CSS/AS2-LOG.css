@@ -1,0 +1,50 @@
+#FbodyL{
+	width: 500px;
+	height: 200px;
+	border: double rgba(7,7,7,1.00) ;
+	margin-left: 200px;
+	background-color: aliceblue
+}
+p{color: black}
+
+#FL{width: 500px;
+	height: 100px;
+	margin-top: 5px;
+	color: black;
+	padding: 5px
+	
+	
+}
+
+#FheaderL{
+	width: 500px;
+	height: 40px;
+	text-align: center;
+	background-color: black;
+	padding-top: 15px
+}
+
+label{
+	color: black
+}
+
+#FmainL1{
+	width: 150px;
+	height: auto;
+	float: left
+}
+
+#FmainL2{
+	width: 350px;
+	height: auto;
+	float: left;
+	line-height:  1.05
+}
+
+.Bsub{
+	width: 100px;
+	height: 30px;
+	border-radius: 50px 50px 50px 50px;
+	border: double;
+	border-width: 3.5px
+}
