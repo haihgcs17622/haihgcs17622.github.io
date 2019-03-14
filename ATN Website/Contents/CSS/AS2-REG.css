@@ -1,0 +1,51 @@
+/* CSS Document */
+#Fbody{
+	width: 500px;
+	height: 420px;
+	border: double rgba(7,7,7,1.00) ;
+	margin-left: 200px;
+	background-color: aliceblue
+}
+p{color: black}
+
+#F1{width: 500px;
+	height: 350px;
+	margin-top: 5px;
+	color: black;
+	padding: 5px;
+	background-color: 
+	
+}
+
+#Fheader{
+	width: 500px;
+	height: 40px;
+	text-align: center;
+	background-color: black;
+	padding-top: 15px
+}
+
+label{
+	color: black
+}
+
+#Fmain1{
+	width: 150px;
+	height: auto;
+	float: left
+}
+
+#Fmain2{
+	width: 350px;
+	height: auto;
+	float: left;
+	line-height:  1.05
+}
+
+.Bsub{
+	width: 100px;
+	height: 30px;
+	border-radius: 50px 50px 50px 50px;
+	border: double;
+	border-width: 3.5px
+}
