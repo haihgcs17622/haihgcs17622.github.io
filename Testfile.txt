@@ -1,2 +1,7 @@
 hom qua em toi truong
+<<<<<<< HEAD
 me dat em tung buoc
+kakakaka
+=======
+me dat em tung buoc
+>>>>>>> 6e51249ac50470d63af59269e01d6574de7bd856
